@@ -1,7 +1,7 @@
-os.py==2.22.0
-sys.py==2.22.0
-time.py==2.22.0
-logging.py==2.22.0
-tempfile.py==2.22.0
-traceback.py==2.22.0
-subprocess.py==2.22.0
+os.py==1.9.6
+sys.py==1.9.6
+time.py==1.9.6
+logging.py==1.9.6
+tempfile.py==1.9.6
+traceback.py==1.9.6
+subprocess.py==1.9.6
